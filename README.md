@@ -20,8 +20,8 @@ A fast, concurrent Python tool to check open issues and pull requests across all
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd "Github Issue and PR Checker"
+   git clone https://github.com/PierrunoYT/GitHub-Issue-and-PR-Checker.git
+   cd "GitHub-Issue-and-PR-Checker"
    ```
 
 2. Install dependencies:
